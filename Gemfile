@@ -13,7 +13,7 @@
 # This is often the default source.
 source 'https://rubygems.org'
 
-
+gem 'puma'
 
 # We want to use a simple web framework and Sinatra makes it pretty easy.
 # @see http://www.sinatrarb.com/
